@@ -1,4 +1,17 @@
 # webpack-test
 从零开始学习webpack
 
-## 命令行编译
+## 开始
+```bash
+npm install
+```
+
+## 运行
+```bash
+npm run start
+```
+
+## 编译
+```bash
+npm run build
+```
